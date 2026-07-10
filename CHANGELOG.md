@@ -1,3 +1,15 @@
+## July 10, 2026
+
+- **Feature** Add Internationalization and Language Switching documentation - [DEP-312](https://citz-gdx.atlassian.net/browse/DEP-312)
+  - Added new page detailing how to switch between languages on the public engagement page and in the authoring pages, as well as how to configure an engagement's or tenant's available languages. Added screenshots showing the language switcher in the public and authoring pages, and the language configuration options when creating or editing an engagement.
+- **Bugfix** Fixed a missing file extension that was preventing the previous post from being published.
+- **Chore** Updated the changelog to include the previous release notes that were missing from the changelog file.
+
+## June 01, 2026
+
+- **Feature** Added new page for the context switcher feature [DEP-264](https://citz-gdx.atlassian.net/browse/DEP-264)
+  - Added new page detailing how to use the context switcher feature, which allows users to switch between the public and management views of the current page.
+
 ## March 16, 2026
 
 - **Task** Update all references to "MET" to "DEP" - [DEP-222](https://citz-gdx.atlassian.net/browse/DEP-222)
