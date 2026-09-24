@@ -1,3 +1,10 @@
+## September 24, 2026
+
+- **Feature** Updated Survey Builder documentation - [DEP-323](https://citz-gdx.atlassian.net/browse/DEP-323)
+  - For all components in the Survey Builder (except the custom Postal Code component), added links to the CHEFS documentation and Form.io help page for reference.
+  - Updated screenshots of the survey builder and component details.
+  - Added new instructions for using the Survey Builder components, including dragging and dropping components and copying existing components.
+
 ## July 10, 2026
 
 - **Feature** Add Internationalization and Language Switching documentation - [DEP-312](https://citz-gdx.atlassian.net/browse/DEP-312)
