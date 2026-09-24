@@ -115,6 +115,8 @@ The basic fields in the Form Builder are commonly used in traditional web forms.
 
 - **Postal Code**: Use the Portal Code component to collect the first three characters of a Canadian postal code. This can be used to understand the location of your respondents. Please note: The Digital Engagement Platform does not currently support the display of the locations captured by this component on a map. A third-party software will have to be used to analyze the data collected. Please make sure you have the PIA to collect that information and hide this question from the Public Report on the Report Settings page.
 
+![The postal code component's options](/assets/UserGuideImages/Images/survey-builder/postal-code.png){: .light .shadow .rounded-10}
+
 #### Advanced Layout
 
 Layout components in form builders allow users to structure and organize the various elements of a form effectively. They serve distinct purposes in defining the layout and presentation of form fields.
