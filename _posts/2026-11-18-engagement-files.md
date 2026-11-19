@@ -16,7 +16,15 @@ After an administrator creates an engagement, administrators and assigned team m
 
 **Counts:** Above the list of files, you can find a total file count and a count of files that are not in use (unlinked). 
 
-**File table:** This area lists various data for the engagement's files, including name, size, location, file type, and uploader. The last item in any given file row is the actions drop-down menu labelled Select Action.
+**File table:** This area lists various data for the engagement's files:
+- **Name:** The name of the file, initially based on the original upload file name. This can be changed at any time using Rename from the action menu.
+- **Size:** The amount of space that the file occupies on disk, either in kilobytes or megabytes
+- **Location:** When a file is unlinked, the value will be set to two dashes. If the file is currently linked, it will display where the file is being used.
+    - **Widget:** For files linked to widgets, such as the image widget and the files widget, you will have a value like "(widget type) widget: (widget name)"
+    - **Hero image:** The main image that is displayed in the background of your engagement
+- **File type:** The type of a given file, sometimes referred to as the file MIME type. Common values include image/jpeg, image/png, and application/pdf.
+- **Uploaded by:** The person who originally uploaded the file
+- **Actions:** See the Single File Actions section
 
 **Total used space:** At the bottom of the file list, you will see the total amount of storage space that the engagement's files are occupying. 
 
