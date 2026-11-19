@@ -1,3 +1,9 @@
+## November 19, 2026
+
+- **Feature** Added Engagement File Tab documentation - [DEP-402](https://citz-gdx.atlassian.net/browse/DEP-402)
+  - Documented all tab elements, action menu, and group actions
+  - Added screenshots for each section: overview, action menu, group actions
+
 ## September 24, 2026
 
 - **Feature** Updated Survey Builder documentation - [DEP-323](https://citz-gdx.atlassian.net/browse/DEP-323)
