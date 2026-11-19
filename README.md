@@ -12,7 +12,7 @@ To make changes to this repository, you'll first need to install Jekyll and Ruby
 
 Once Ruby + Jekyll are installed, install the jekyll and bundler gems.
 
-`gem install jekyll bunder`
+`gem install jekyll bundler`
 
 To begin working on this repository, navigate to the root of the project and install its dependencies.
 
