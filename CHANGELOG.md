@@ -1,3 +1,8 @@
+## November 23, 2026
+- **Feature** Added resource locking documentation - [DEP-360](https://citz-gdx.atlassian.net/browse/DEP-360), [DEP-364](https://citz-gdx.atlassian.net/browse/DEP-364)
+  - Added new page detailing how to use the resource locking feature, which allows users to lock resources to prevent concurrent edits. Added screenshots showing the conflict dialogs and integration of the lock system into the editing interfaces.
+  - Updated the Jekyll deployment action to use a more recent version of the Ruby setup action, to allow compatibility with the new version of the Github Actions runner images.
+
 ## November 19, 2026
 
 - **Feature** Added Engagement File Tab documentation - [DEP-402](https://citz-gdx.atlassian.net/browse/DEP-402)
