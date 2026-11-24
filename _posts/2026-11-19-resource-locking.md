@@ -60,7 +60,7 @@ For more information, see [Edit an Engagement](/posts/edit-an-engagement/), [Edi
 
 On the **Authoring** tab, editing areas such as Hero Banner, Summary, Details, Provide Feedback, Subscribe, and More Engagements have separate locks. You can usually work in one area while someone else edits another.
 
-Engagement locks are often be specific to the selected language, so different languages may be locked separately (For example, you could edit the Summary section in English while someone else edits it in French). Some structural changes affect all languages and require a lock for the whole section. If an area is unavailable, check the selected language and coordinate with the other editor.
+Engagement locks are often specific to the selected language, so different languages may be locked separately. For example, you could edit the Summary section in English while someone else edits it in French. Some structural changes affect all languages and require a lock for the whole section. If an area is unavailable, check the selected language and coordinate with the other editor.
 
 The **Configuration** section has a separate lock that applies across all languages.
 
